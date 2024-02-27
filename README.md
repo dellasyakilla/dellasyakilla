@@ -1,5 +1,5 @@
 # Hallo Guys..:)
-- 👋 Hi, I’m @dellasyakilla
+- 👋 Hi, I’m Della Syakilla
 - 👋 I’m mantee from IBM Advance AI at Infinite Learning B6
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning about Python
